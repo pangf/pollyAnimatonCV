@@ -2,5 +2,5 @@
 
 ## html5 /Jquery/css
 
-### please down load the project and unzipped it, use the polly_cv.html as the  entrance.
+### please down load the project and unzipped it, use the index.html as the  entrance.
 
